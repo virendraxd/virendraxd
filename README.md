@@ -1,4 +1,15 @@
-## Hi there 👋
+### Hi there 👋
+
+I'm Virendra, a passionate student developer interested in Web, App & Game development.
+
+## Portfolio
+Check out my work and projects [here](https://your-portfolio-link.com)
+
+# Stats
+
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=virendraXD&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=virendraXD&layout=compact&theme=tokyonight)
+
 
 <!--
 **virendraXD/virendraXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
