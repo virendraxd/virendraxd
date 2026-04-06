@@ -1,7 +1,13 @@
 # 💫 About Me:
-Hi, I’m Virendra Singh, a 19-year-old developer who loves crafting Modern websites, Minecraft mods, and Discord bots.<br>I’m currently looking for Freelance work or Internship opportunities to sharpen my skills and build awesome things.
+Virendra Singh — Developer
 
-Founder @ Knight Tech Labs | Building student-focused tools
+Building modern web applications, Minecraft extensions and Discord bots with an emphasis on scalable and user-centric solutions.
+
+Experienced in working with contemporary technologies, with a strong interest in software development, app development and AI-driven tools. Demonstrates a proactive, project-based approach to learning and continuously works on enhancing technical and problem-solving skills.
+
+Open to internship and freelance opportunities to contribute, collaborate and grow within professional environments.
+
+Founder & Product Builder @KnightTechLabs
 🌐 https://virendraxd.github.io/knighttechlabs/
 
 ## Portfolio
